@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 👋 Hi, everyone!</h1>
 
-
-
- ```I am Giba``` <br>Curious about solving problems and organizing the world around me through technology! <br>Always looking for a new opportunity to learn!<br>**Have you checked out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-kolacki/)](https://www.linkedin.com/in/gilberto-kolacki/) ?** 
+```I am Giba``` 
+<br>
+Curious about solving problems and organizing the world around me through technology! <br>Always looking for a new opportunity to learn!<br>**Have you checked out my 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-kolacki/)](https://www.linkedin.com/in/gilberto-kolacki/) ?** 
 
 
 
 <h2 align="center"> ⚡ Technologies</h2>
+
+<div align="center">
 
 [![html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
@@ -47,6 +50,8 @@ Here are some ideas to get you started:
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![saas](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
+
+</div>
 
 <h4 align="center"> :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!!:sparkles:</h4>
 
