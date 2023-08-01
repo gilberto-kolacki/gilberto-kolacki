@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![posssttmmaann Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![heerrokku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![liinnuxx Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
-[![quarkus_Badge](https://img.shields.io/badge/Quarkus-1572B6?style=for-the-badge&logo=quarkus&logoColor=white&link=https://github.com/gilberto-kolacki)]
+[![quarkus_Badge](https://img.shields.io/badge/Quarkus-1572B6?style=for-the-badge&logo=quarkus&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![wwinndoowwwss Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![vvsscooddde Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![ecippse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
