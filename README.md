@@ -53,5 +53,3 @@ Curious about solving problems and organizing the world around me through techno
 
 </div>
 
-<h4 align="center"> :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!!:sparkles:</h4>
-
