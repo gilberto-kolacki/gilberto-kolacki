@@ -45,6 +45,7 @@ Curious about solving problems and organizing the world around me through techno
 [![bootstraap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilberto-kolacki)
 [![posssttmmaann Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![heerrokku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
 [![liinnuxx Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&link=https://github.com/gilberto-kolacki)](https://github.com/gilberto-kolacki)
